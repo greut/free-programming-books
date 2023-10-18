@@ -2275,6 +2275,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 * [From JavaScript to Rust ebook](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 * [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
